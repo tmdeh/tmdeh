@@ -19,4 +19,5 @@
     <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=expresst&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
